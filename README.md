@@ -65,6 +65,8 @@ endmodule
 ![timing](https://github.com/23010890/SYNCHRONOUS-UP-COUNTER/assets/154983666/c503e4fc-dda6-4393-9557-adad85097813)
 
 **TRUTH TABLE**
+
+
 ![truth table](https://github.com/23010890/SYNCHRONOUS-UP-COUNTER/assets/154983666/f78ba5b2-7cf7-4e2a-af60-d2a77cd69808)
 
 **RESULTS**
